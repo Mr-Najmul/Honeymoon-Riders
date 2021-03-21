@@ -23,7 +23,7 @@ class GoogleMap extends Component {
           <AnyReactComponent
             lat={24.2276742}
             lng={89.7020581}
-            text="Workplace of Prodip M"
+            text="Workplace of Nazmul Alam"
           />
         </GoogleMapReact>
       </div>
